@@ -5,3 +5,7 @@ node /\w(.ec2.internal)/ {
 	include rails
 	include starter
 }
+
+node default {
+	include starter
+}
