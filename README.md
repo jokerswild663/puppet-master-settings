@@ -1,0 +1,2 @@
+puppet-master-settings
+======================
